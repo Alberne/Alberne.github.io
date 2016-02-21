@@ -1,2 +1,1 @@
-# alberne.github.io
-求知若渴，虚心若愚
+##[alberne's blog](https://alberne.github.io/ "求知若饥，虚心若愚")
